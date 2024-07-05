@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bizupstudio.com/$1"
+ }
+  ]
+}
